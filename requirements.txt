@@ -1,0 +1,16 @@
+aiogram
+rcon
+mcstatus
+pandas
+psutil
+prometheus_client
+matplotlib
+plotly
+sqlalchemy
+sqlite3
+pytest
+schedule
+apscheduler
+logging
+aiohttp
+Jinja2
